@@ -1,0 +1,14 @@
+E:\Bibliotecas\Documents\Documents\Filipe\Demos\NHibernate_DotNetCore\bin\Debug\netcoreapp2.2\NHibernate_DotNetCore.dll
+E:\Bibliotecas\Documents\Documents\Filipe\Demos\NHibernate_DotNetCore\bin\Debug\netcoreapp2.2\NHibernate_DotNetCore.deps.json
+E:\Bibliotecas\Documents\Documents\Filipe\Demos\NHibernate_DotNetCore\bin\Debug\netcoreapp2.2\NHibernate_DotNetCore.runtimeconfig.json
+E:\Bibliotecas\Documents\Documents\Filipe\Demos\NHibernate_DotNetCore\bin\Debug\netcoreapp2.2\NHibernate_DotNetCore.runtimeconfig.dev.json
+E:\Bibliotecas\Documents\Documents\Filipe\Demos\NHibernate_DotNetCore\obj\Debug\netcoreapp2.2\NHibernate_DotNetCore.csprojAssemblyReference.cache
+E:\Bibliotecas\Documents\Documents\Filipe\Demos\NHibernate_DotNetCore\obj\Debug\netcoreapp2.2\NHibernate_DotNetCore.csproj.CoreCompileInputs.cache
+E:\Bibliotecas\Documents\Documents\Filipe\Demos\NHibernate_DotNetCore\obj\Debug\netcoreapp2.2\NHibernate_DotNetCore.RazorAssemblyInfo.cache
+E:\Bibliotecas\Documents\Documents\Filipe\Demos\NHibernate_DotNetCore\obj\Debug\netcoreapp2.2\NHibernate_DotNetCore.RazorAssemblyInfo.cs
+E:\Bibliotecas\Documents\Documents\Filipe\Demos\NHibernate_DotNetCore\obj\Debug\netcoreapp2.2\NHibernate_DotNetCore.AssemblyInfoInputs.cache
+E:\Bibliotecas\Documents\Documents\Filipe\Demos\NHibernate_DotNetCore\obj\Debug\netcoreapp2.2\NHibernate_DotNetCore.AssemblyInfo.cs
+E:\Bibliotecas\Documents\Documents\Filipe\Demos\NHibernate_DotNetCore\obj\Debug\netcoreapp2.2\NHibernate_DotNetCore.RazorTargetAssemblyInfo.cache
+E:\Bibliotecas\Documents\Documents\Filipe\Demos\NHibernate_DotNetCore\obj\Debug\netcoreapp2.2\NHibernate_DotNetCore.dll
+E:\Bibliotecas\Documents\Documents\Filipe\Demos\NHibernate_DotNetCore\obj\Debug\netcoreapp2.2\NHibernate_DotNetCore.pdb
+E:\Bibliotecas\Documents\Documents\Filipe\Demos\NHibernate_DotNetCore\bin\Debug\netcoreapp2.2\NHibernate_DotNetCore.pdb
